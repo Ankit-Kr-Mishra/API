@@ -1,8 +1,8 @@
 <?php
-  $dbhost  = 'localhost';    
-  $dbname  = 'login';   
-  $dbuser  = 'ankit';   
-  $dbpass  = '*Ankit#4';   
+  $dbhost  = 'Your host name';    
+  $dbname  = 'Your database name';   
+  $dbuser  = 'Your database username';   
+  $dbpass  = 'Your database password';   
   $appname = "API"; 
 
   $connection = new mysqli($dbhost, $dbuser, $dbpass, $dbname);
