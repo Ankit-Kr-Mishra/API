@@ -109,6 +109,5 @@
          det.left = window.innerWidth*0.3724 + 'px';
     </script>
     <div id="chhotu"> <span>Don't have an account?<a onclick="show()"><u>sign up</u></a></span><br></div>
-    <div id = "cop"><span id="copyright"> Copyright@Ankit Kumar Mishra </span></div>
 </body>
 </html>
